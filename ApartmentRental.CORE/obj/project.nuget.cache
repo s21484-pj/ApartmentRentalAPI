@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s8ri1niAsI5pAkaGlt+yn2vbbqfN3PJzPuQuZkGBAN4rPTDkao4x1no2OjnH13wAVettQKbsvOpv+E1JhxByqg==",
+  "dgSpecHash": "HsePwQw3vIVKQ56Cs5XcWKlFdM1AP0WWz7vrHvNdmMY3zVzqaBpe7TPwXWniDeltBriMko3upWAJ5Y2Ls7+MXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s21484\\RiderProjects\\ApartmentRental.API\\ApartmentRental.CORE\\ApartmentRental.CORE.csproj",
+  "projectFilePath": "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.CORE\\ApartmentRental.CORE.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

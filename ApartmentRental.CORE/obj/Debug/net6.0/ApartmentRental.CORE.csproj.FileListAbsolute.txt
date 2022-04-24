@@ -1,0 +1,12 @@
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\bin\Debug\net6.0\ApartmentRental.CORE.deps.json
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\bin\Debug\net6.0\ApartmentRental.CORE.dll
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\bin\Debug\net6.0\ApartmentRental.CORE.pdb
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\obj\Debug\net6.0\ApartmentRental.CORE.csproj.AssemblyReference.cache
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\obj\Debug\net6.0\ApartmentRental.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\obj\Debug\net6.0\ApartmentRental.CORE.AssemblyInfoInputs.cache
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\obj\Debug\net6.0\ApartmentRental.CORE.AssemblyInfo.cs
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\obj\Debug\net6.0\ApartmentRental.CORE.csproj.CoreCompileInputs.cache
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\obj\Debug\net6.0\ApartmentRental.CORE.dll
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\obj\Debug\net6.0\refint\ApartmentRental.CORE.dll
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\obj\Debug\net6.0\ApartmentRental.CORE.pdb
+C:\Users\macie\RiderProjects\ApartmentRentalAPI\ApartmentRental.CORE\obj\Debug\net6.0\ref\ApartmentRental.CORE.dll

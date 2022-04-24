@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s21484\\RiderProjects\\ApartmentRental.API\\ApartmentRental.Infrastracture\\ApartmentRental.Infrastracture.csproj": {}
+    "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.Infrastracture\\ApartmentRental.Infrastracture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s21484\\RiderProjects\\ApartmentRental.API\\ApartmentRental.Infrastracture\\ApartmentRental.Infrastracture.csproj": {
+    "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.CORE\\ApartmentRental.CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s21484\\RiderProjects\\ApartmentRental.API\\ApartmentRental.Infrastracture\\ApartmentRental.Infrastracture.csproj",
-        "projectName": "ApartmentRental.Infrastracture",
-        "projectPath": "C:\\Users\\s21484\\RiderProjects\\ApartmentRental.API\\ApartmentRental.Infrastracture\\ApartmentRental.Infrastracture.csproj",
-        "packagesPath": "C:\\Users\\s21484\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s21484\\RiderProjects\\ApartmentRental.API\\ApartmentRental.Infrastracture\\obj\\",
+        "projectUniqueName": "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.CORE\\ApartmentRental.CORE.csproj",
+        "projectName": "ApartmentRental.CORE",
+        "projectPath": "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.CORE\\ApartmentRental.CORE.csproj",
+        "packagesPath": "C:\\Users\\macie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.CORE\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
-        ],
         "configFilePaths": [
-          "C:\\Users\\s21484\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\macie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +52,73 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.Infrastracture\\ApartmentRental.Infrastracture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.Infrastracture\\ApartmentRental.Infrastracture.csproj",
+        "projectName": "ApartmentRental.Infrastracture",
+        "projectPath": "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.Infrastracture\\ApartmentRental.Infrastracture.csproj",
+        "packagesPath": "C:\\Users\\macie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.Infrastracture\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\macie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.CORE\\ApartmentRental.CORE.csproj": {
+                "projectPath": "C:\\Users\\macie\\RiderProjects\\ApartmentRentalAPI\\ApartmentRental.CORE\\ApartmentRental.CORE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
